@@ -1,0 +1,28 @@
+{
+  "apogee": 25034860,
+  "seed": 25034860,
+  "python_version": "3.11.9",
+  "tensorflow_version": "2.15.1",
+  "numpy_version": "1.26.4",
+  "input_shape": [
+    1,
+    64,
+    3
+  ],
+  "sampling_rate_hz": 50,
+  "classes": [
+    "Repos",
+    "Cercle",
+    "Ligne",
+    "Zigzag"
+  ],
+  "total_params": 948,
+  "h5_size_bytes": 43672,
+  "float_tflite_size_bytes": 7948,
+  "int8_tflite_size_bytes": 6280,
+  "input_quant_scale": 0.011214323341846466,
+  "input_quant_zero_point": 0,
+  "output_quant_scale": 0.00390625,
+  "output_quant_zero_point": -128,
+  "threshold_selected": 0.6
+}

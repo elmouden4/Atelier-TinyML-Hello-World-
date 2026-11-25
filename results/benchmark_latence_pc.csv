@@ -1,0 +1,3 @@
+Modele,Taille (KiB),Mediane_PC (ms),p95_PC (ms)
+Float32,7.76,0.1555,0.1806
+INT8,6.13,0.1738,0.3692

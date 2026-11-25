@@ -1,0 +1,5 @@
+Dataset,Modele,Accuracy (%),Baisse (pts),Rappel_Repos (%),Rappel_Cercle (%),Rappel_Ligne (%),Rappel_Zigzag (%),Saturation (%),Couverture_0.60 (%),Acc_Acceptee_0.60 (%)
+Test,Float32,100.0,0.0,100.0,100.0,100.0,100.0,0.0,100.0,100.0
+Test,INT8,100.0,0.0,100.0,100.0,100.0,100.0,0.0191,100.0,100.0
+Stress,Float32,100.0,0.0,100.0,100.0,100.0,100.0,0.0,100.0,100.0
+Stress,INT8,100.0,0.0,100.0,100.0,100.0,100.0,0.0208,100.0,100.0
